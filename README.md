@@ -1,3 +1,5 @@
 ## portfolio
 
-portfolio for photographer
+portfolio as a photographer
+&
+portfolio as a programmer
